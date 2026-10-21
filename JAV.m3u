@@ -9,3 +9,8 @@ https://surrit.com/6f9e6486-4445-4bee-8e59-db94f2e37364/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://missav.ws/
 #EXTVLCOPT:http-origin=https://missav.ws/
 https://surrit.com/389c3c78-a4bb-4ea6-a5b5-cef027fff26d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="01" tvg-logo="https://fourhoi.com/stzy-019/cover-n.jpg" group-title="Nano Ogasawara",STZY-019
+#EXTVLCOPT:http-referrer=https://missav.ws/
+#EXTVLCOPT:http-origin=https://missav.ws/
+https://surrit.com/18923eee-be92-4bb8-9f2f-a61a699fad16/playlist.m3u8
